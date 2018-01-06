@@ -1,0 +1,14 @@
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\bin\Release\UdpClinetTest.exe.config
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\bin\Release\UdpClinetTest.exe
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\bin\Release\UdpClinetTest.pdb
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\MainWindow.g.cs
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\App.g.cs
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest_MarkupCompile.cache
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest_MarkupCompile.lref
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\MainWindow.baml
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.g.resources
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.Properties.Resources.resources
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.csproj.GenerateResource.Cache
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.exe
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.pdb
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\UdpClinetTest\UdpClinetTest\obj\Release\UdpClinetTest.csprojResolveAssemblyReference.cache
