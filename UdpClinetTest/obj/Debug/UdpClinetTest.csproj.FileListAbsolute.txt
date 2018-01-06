@@ -41,3 +41,17 @@ C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagUdpClinet\UdpClinet
 C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagUdpClinet\UdpClinetTest\obj\Debug\UdpClinetTest.g.resources
 C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagUdpClinet\UdpClinetTest\obj\Debug\UdpClinetTest.Properties.Resources.resources
 C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagUdpClinet\UdpClinetTest\obj\Debug\UdpClinetTest.csproj.GenerateResource.Cache
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\bin\Debug\UdpClinetTest.exe.config
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.exe
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.pdb
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.csprojResolveAssemblyReference.cache
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\MainWindow.g.cs
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\App.g.cs
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest_MarkupCompile.cache
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest_MarkupCompile.lref
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\MainWindow.baml
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\bin\Debug\UdpClinetTest.exe
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\bin\Debug\UdpClinetTest.pdb
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.g.resources
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.Properties.Resources.resources
+C:\Users\sesa58149\Documents\Visual Studio 2015\Projects\DiagClientFromGitHub\DiagServerTeSysT\UdpClinetTest\obj\Debug\UdpClinetTest.csproj.GenerateResource.Cache

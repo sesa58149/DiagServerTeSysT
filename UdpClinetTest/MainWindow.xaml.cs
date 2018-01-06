@@ -216,12 +216,13 @@ namespace UdpClinetTest
             byte[] sendbuf = { 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             byte[] rxbuf = new byte[128];
            // IPEndPoint sendEp = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 11000);
-            EndPoint rxEp = (EndPoint)sendEp;
+            
             Int16 deviceCnt = (Int16)lstDevice.Items.Count;
             for (int i = 0;i < deviceCnt; i++)
             {
                 //sendEp.Address = IPAddress.Parse();
                 IPEndPoint sendEp = new IPEndPoint(IPAddress.Parse(lstDevice.Items[i].ToString()), 11000);
+                EndPoint rxEp = (EndPoint)sendEp;
                 string tmp = lstDevice.Items[i].ToString();
                 int si = tmp.LastIndexOf(".");
                 int len = tmp.Length - si;
